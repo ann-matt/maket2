@@ -147,6 +147,7 @@ a {
     font-family: 'TTLakes';
     font-weight: 400;
     font-size: 16px;
+    color:#1B1C21;
 }
 .phone {
     display: inline-block;
@@ -155,6 +156,7 @@ a {
     font-family: 'TTLakes';
     font-weight: 900;
     font-size: 24px;
+    color:#1B1C21;
 }
 .languages {
     display: flex;
@@ -165,6 +167,7 @@ a {
     font-family: 'TTLakes';
     font-weight: 400;
     font-size:16px;
+    color:#1B1C21;
 
     margin-bottom: 32px;
 }
