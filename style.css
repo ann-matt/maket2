@@ -42,29 +42,29 @@ a {
 .icon-logo {
     width:97px;
     height: 51px;
-    background: url(/css/assets/icons/Group.png);
+    background: url(css/assets/icons/Group.png);
     display: block;
 }
 .icon-search {
     width: 40px;
     height: 40px;
-    background:url(/css/assets/icons/search.png);
+    background:url(css/assets/icons/search.png);
     display: block;
 }
 .icon-phone {
     width: 40px;
     height: 40px;
-    background: url(/css/assets/icons/call.png);
+    background: url(css/assets/icons/call.png);
 }
 .icon-chat {
     width: 40px;
     height: 40px;
-    background: url(/css/assets/icons/chat.png);
+    background: url(css/assets/icons/chat.png);
 }
 .icon-profile {
     width: 40px;
     height: 40px;
-    background: url(/css/assets/icons/profile.png);
+    background: url(css/assets/icons/profile.png);
 }
 .block {
     width: 320px;
